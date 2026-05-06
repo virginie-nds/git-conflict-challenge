@@ -1,1 +1,1 @@
-# git-conflict-challenge
+# conflit
